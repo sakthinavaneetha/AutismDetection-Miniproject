@@ -1,4 +1,4 @@
-## TAutism Detection: A Data-Driven Solution
+## Autism Detection: A Data-Driven Solution
 Autism Spectrum Disorder (ASD) Need for Objective Screening: Machine learning can help create more consistent and objective early screening tools for Autism Spectrum Disorder (ASD).
 
 ## About
